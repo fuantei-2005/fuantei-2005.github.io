@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Determination Mono";
+  src: url("./assets/DTM-Mono.otf");
+}
+
+@import "tailwindcss";
+
+@theme {
+  --font-dtmono: "Determination Mono", "sans-serif";
+}
